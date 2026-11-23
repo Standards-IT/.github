@@ -2,8 +2,6 @@
 
 <!-- What does this PR do? Why is it needed? Link any related issue/ticket. -->
 
-Closes #
-
 ---
 
 ## Type of change
